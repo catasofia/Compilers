@@ -7,8 +7,8 @@ Compilers 2020/2021
 | :-------------------:  | :----------:   |
 | First delivery         | *1,70* / 2,00  |
 | Intermediate delivery  | *5,53* / 6,00  |
-| Final delivery	       | *2,542* / 5,00 (automatic tests) + ** / 7,00 (manual evaluation) |
-| Final grade	           |        / 20,00 |
+| Final delivery	       | *2,542* / 5,00 (automatic tests) + *6,3217* / 7,00 (manual evaluation) |
+| Final grade	           | *16,09*       / 20,00 |
 
 # Group 11
 | Name                | IST ID 				  |   GitHub username                                    |
